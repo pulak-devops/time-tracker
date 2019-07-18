@@ -37,6 +37,7 @@ public class Tracker {
 
         if (valid = true) {
             // whatever
+            System.out.println("hi");
         }
 
         return entries.get(index);
